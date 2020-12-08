@@ -1,0 +1,24 @@
+[
+  {
+    "gitara": {
+      "id": 1,
+      "producent": "Gibson",
+      "model": "Les Paul Special Tribute Humbucker 5N Natural Walnut Satin",
+      "cena": 4499.0,
+      "rodzaj": 3,
+      "ilosc": 1
+    },
+    "czas": "31 7 2020 21 45"
+  },
+  {
+    "gitara": {
+      "id": 4,
+      "producent": "Taylor",
+      "model": "American Dream AD17e",
+      "cena": 8033.58,
+      "rodzaj": 0,
+      "ilosc": 0
+    },
+    "czas": "31 7 2020 21 46"
+  }
+]
